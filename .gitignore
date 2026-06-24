@@ -1,0 +1,3 @@
+/.venv
+/conda_env
+/license_plate_and_car_detection/model_pi/pi_1/run/__pycache__
